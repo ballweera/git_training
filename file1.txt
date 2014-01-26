@@ -1,4 +1,6 @@
 hello world
 how are you?
 oops!forgot something
-3
+add new data
+for commit #1
+for commit #2
